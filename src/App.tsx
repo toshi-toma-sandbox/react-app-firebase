@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This is React App with Firebase(toshi-toma).
         </a>
       </header>
     </div>
