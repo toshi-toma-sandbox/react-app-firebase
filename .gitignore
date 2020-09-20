@@ -128,3 +128,4 @@ yarn-error.log*
 
 # Firebase
 .firebase/
+*firebase-adminsdk.json
